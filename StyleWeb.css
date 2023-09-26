@@ -375,10 +375,10 @@ body {
      height: 100vh;
      transition: 0.3s;
  }
- 
- .navbar-nav-active {
-     right: 0;
- }
+
+.active {
+    right: 0px
+}
 
  .navbar-nav-active a {
     color: #010101;
